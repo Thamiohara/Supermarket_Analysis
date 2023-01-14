@@ -1,0 +1,1 @@
+The project focused on understanding customer purchasing patterns and developing more effective product placement for cross-sell and up-sell strategies
